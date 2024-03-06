@@ -14,8 +14,7 @@
 ### 📚 Learning platform:
 ![COURSERA](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+<details> <summary><h3>👨‍💻 My Coding Journey</h3></summary>
       I developed interest in Web Development when I was very young. I got into the idea of coding when I was a teenager trying to create my own RuneScape private servers. Through constant failure to learn Java efficently, I made my way back to Front-End development. Where I excel. I enjoy HTML, CSS and JavaScript. I have more recently been learning React and Django. I also have been learning Python steadily and would like to eventually learn C++ or Rust. I have finished roughly 10 Professional Certificate's. Most of which through Coursera. I am enrolled through the University of Maine Augusta persuing a degree in Science and Computer Information Systems. Recently completed three courses with different groups at MIT. I am proficent with Linux, I enjoy Ubuntu for a daily driver and I have dabbled with Kali and HTB. I hope to make great things one day and show everyone that against all odds you can succeed no matter what life throws at you.
 
 
